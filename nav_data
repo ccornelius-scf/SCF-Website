@@ -1,0 +1,168 @@
+{
+  "version": "1.0",
+  "updated": "2026-03-27",
+  "logo": {
+    "src": "https://cdn.prod.website-files.com/69b0a7008e46c8bf53f55da6/69b7b58de332cbd8e8ab62cb_Logo%20-%20Secure%20Controls%20Framework%20(SCF).png",
+    "alt": "Secure Controls Framework",
+    "href": "/"
+  },
+  "cta": {
+    "label": "↓ Download SCF",
+    "url": "/free-content/scf-download"
+  },
+  "nav": [
+    {
+      "label": "Start Here",
+      "url": "/start-here",
+      "children": [
+        { "label": "What Is The SCF?", "url": "/start-here/what-is-the-scf" },
+        { "label": "SCRMS – How To Implement The SCF", "url": "/start-here/security-compliance-resilience-management-system-scrms" },
+        { "label": "SCF Domains & Principles", "url": "/start-here/scf-domains-principles" },
+        { "label": "Included Laws, Regulations & Frameworks (LRF)", "url": "/start-here/included-laws-regulations-frameworks-lrf" },
+        { "label": "Set Theory Relationship Mapping (STRM)", "url": "/start-here/set-theory-relationship-mapping-strm" },
+        { "label": "NIST OLIR Participation", "url": "/start-here/nist-olir-participation" },
+        { "label": "ESG Considerations", "url": "/start-here/esg-considerations" }
+      ]
+    },
+    {
+      "label": "Free Content",
+      "url": "/free-content",
+      "children": [
+        { "label": "SCF Download", "url": "/free-content/scf-download" },
+        { "label": "Risk Management Model (SCR-RMM)", "url": "/free-content/risk-management-model-scr-rmm" },
+        { "label": "Capability Maturity Model (SCR-CMM)", "url": "/free-content/capability-maturity-model-scr-cmm" },
+        { "label": "Cybersecurity Assessment Standards (CDPAS)", "url": "/free-content/cybersecurity-assessment-standards-cdpas" },
+        { "label": "Mergers, Acquisitions & Divestitures (MA&D)", "url": "/free-content/mergers-acquisitions-divestitures-ma-d" },
+        { "label": "Data Privacy Management Principles (DPMP)", "url": "/free-content/data-privacy-management-principles-dpmp" },
+        { "label": "Evidence Request List (ERL)", "url": "/free-content/evidence-request-list-erl" },
+        { "label": "Unified Scoping Guide (USG)", "url": "/free-content/unified-scoping-guide-usg" }
+      ]
+    },
+    {
+      "label": "SCF CORE",
+      "url": "/scf-core"
+    },
+    {
+      "label": "GRC Fundamentals",
+      "url": "/grc-fundamentals",
+      "children": [
+        {
+          "label": "GRC Basics",
+          "url": "/grc-fundamentals/grc-basics",
+          "type": "section",
+          "children": [
+            { "label": "The Output Of GRC Practices", "url": "/grc-fundamentals/grc-basics/the-output-of-grc-practices" },
+            { "label": "Cybersecurity Materiality", "url": "/grc-fundamentals/grc-basics/cybersecurity-materiality" },
+            { "label": "Laws vs Regulations vs Frameworks", "url": "/grc-fundamentals/grc-basics/laws-vs-regulations-vs-frameworks" }
+          ]
+        },
+        {
+          "label": "Common Cybersecurity Laws",
+          "url": "/grc-fundamentals/common-cybersecurity-laws",
+          "type": "section",
+          "children": [
+            { "label": "US (FED) – FedRAMP", "url": "/grc-fundamentals/common-cybersecurity-laws/us-fed-fedramp" },
+            { "label": "US (FED) – GLBA", "url": "/grc-fundamentals/common-cybersecurity-laws/us-fed-glba" },
+            { "label": "US (FED) – HIPAA / HITECH", "url": "/grc-fundamentals/common-cybersecurity-laws/us-fed-hipaa-hitech" },
+            { "label": "US (FED) – SOX", "url": "/grc-fundamentals/common-cybersecurity-laws/us-fed-sox" },
+            { "label": "US (CA) – CCPA / CPRA", "url": "/grc-fundamentals/common-cybersecurity-laws/us-ca-ccpa-cpra" },
+            { "label": "US (TX) – SB 2610", "url": "/grc-fundamentals/common-cybersecurity-laws/us-tx-sb-2610" },
+            { "label": "EU – DORA", "url": "/grc-fundamentals/common-cybersecurity-laws/eu-dora" },
+            { "label": "EU – GDPR", "url": "/grc-fundamentals/common-cybersecurity-laws/eu-gdpr" },
+            { "label": "EU – NIS2 Directive", "url": "/grc-fundamentals/common-cybersecurity-laws/eu-nis2-directive" }
+          ]
+        },
+        {
+          "label": "Common Cybersecurity Regulations",
+          "url": "/grc-fundamentals/common-cybersecurity-regulations",
+          "type": "section",
+          "children": [
+            { "label": "US (FED) – CMMC", "url": "/grc-fundamentals/common-cybersecurity-regulations/us-fed-cmmc" },
+            { "label": "US (FED) – DFARS 252.204-70XX", "url": "/grc-fundamentals/common-cybersecurity-regulations/us-fed-dfars-252-204-70xx" },
+            { "label": "US (NY) – NY DFS 23 NYCRR Part 500", "url": "/grc-fundamentals/common-cybersecurity-regulations/us-ny-ny-dfs-23-nycrr-part-500" }
+          ]
+        },
+        {
+          "label": "Common Cybersecurity Frameworks",
+          "url": "/grc-fundamentals/common-cybersecurity-frameworks",
+          "type": "section",
+          "children": [
+            { "label": "CIS Critical Security Controls (CSC)", "url": "/grc-fundamentals/common-cybersecurity-frameworks/cis-critical-security-controls-csc" },
+            { "label": "ISO 27001 / ISO 27002", "url": "/grc-fundamentals/common-cybersecurity-frameworks/iso-27001-iso-27002" },
+            { "label": "NIST CSF 2.0", "url": "/grc-fundamentals/common-cybersecurity-frameworks/nist-csf-2-0" },
+            { "label": "NIST SP 800-53", "url": "/grc-fundamentals/common-cybersecurity-frameworks/nist-sp-800-53" },
+            { "label": "NIST SP 800-161", "url": "/grc-fundamentals/common-cybersecurity-frameworks/nist-sp-800-161" },
+            { "label": "NIST SP 800-171", "url": "/grc-fundamentals/common-cybersecurity-frameworks/nist-sp-800-171" },
+            { "label": "NIST SP 800-172", "url": "/grc-fundamentals/common-cybersecurity-frameworks/nist-sp-800-172" },
+            { "label": "PCI DSS", "url": "/grc-fundamentals/common-cybersecurity-frameworks/pci-dss" },
+            { "label": "Trust Services Criteria (SOC 2)", "url": "/grc-fundamentals/common-cybersecurity-frameworks/trust-services-criteria-soc-2" },
+            { "label": "Metaframework – HITRUST", "url": "/grc-fundamentals/common-cybersecurity-frameworks/metaframwork-hitrust" },
+            { "label": "Metaframework – Unified Compliance (UC)", "url": "/grc-fundamentals/common-cybersecurity-frameworks/metaframework-unified-compliance-uc" }
+          ]
+        },
+        {
+          "label": "Word Crimes",
+          "url": "/grc-fundamentals/word-crimes",
+          "type": "section",
+          "children": [
+            { "label": "Policy vs Standard vs Procedure", "url": "/grc-fundamentals/word-crimes/policy-vs-standard-vs-procedure" },
+            { "label": "Risks vs Threats", "url": "/grc-fundamentals/word-crimes/risks-vs-threats" },
+            { "label": "Strategy vs Operations vs Tactics", "url": "/grc-fundamentals/word-crimes/strategy-vs-operations-vs-tactics" },
+            { "label": "Inheritance vs Reciprocity", "url": "/grc-fundamentals/word-crimes/inheritance-vs-resiprocity" }
+          ]
+        },
+        {
+          "label": "Emerging Trends",
+          "url": "/grc-fundamentals/emerging-trends",
+          "type": "section",
+          "children": [
+            { "label": "TPRM & SCRM", "url": "/grc-fundamentals/emerging-trends/tprm-scrm" },
+            { "label": "Integrity", "url": "/grc-fundamentals/emerging-trends/integrity" },
+            { "label": "Resilience", "url": "/grc-fundamentals/emerging-trends/resilience" },
+            { "label": "MSP / MSSP Dumpster Fire", "url": "/grc-fundamentals/emerging-trends/msp-mssp-dumpster-fire" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "SCF Certified",
+      "url": "/scf-certified",
+      "children": [
+        {
+          "label": "Organization-Level SCF Certifications",
+          "url": "/scf-certified/organization-level-scf-certifications",
+          "type": "section",
+          "children": [
+            { "label": "SCF Conformity Assessment Program (CAP)", "url": "/scf-certified/organization-level-scf-certifications/scf-conformity-assessment-program-cap" },
+            { "label": "SCF Assessment Guides", "url": "/scf-certified/organization-level-scf-certifications/scf-assessment-guides" }
+          ]
+        },
+        {
+          "label": "SCF Training & Individual-Level Certifications",
+          "url": "/scf-certified/scf-training-individual-level-certifications",
+          "type": "section",
+          "children": [
+            { "label": "SCF Practitioner", "url": "/scf-certified/scf-training-individual-level-certifications/scf-practitioner" },
+            { "label": "SCF Architect", "url": "/scf-certified/scf-training-individual-level-certifications/scf-architect" },
+            { "label": "SCF Assessor", "url": "/scf-certified/scf-training-individual-level-certifications/scf-assessor" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Marketplace",
+      "url": "/marketplace",
+      "children": [
+        { "label": "SCF Connect (SSOT)", "url": "/marketplace/scf-connect-ssot" },
+        { "label": "SCF Licensed Content Providers (LCPs)", "url": "/marketplace/scf-licensed-content-providers-lcps" },
+        { "label": "Registered Provider Organizations (RPOs)", "url": "/marketplace/registered-provider-organizations-rpos" },
+        { "label": "Authorized Control Integrator (ACI)", "url": "/marketplace/authorized-control-integrator-aci" },
+        { "label": "Authorized Solution Provider (ASP)", "url": "/marketplace/authorized-solution-provider-asp" },
+        { "label": "Third-Party Assessment Organizations (3PAOs)", "url": "/marketplace/third-party-assessment-organizations-3paos" }
+      ]
+    },
+    { "label": "FAQ", "url": "/faq" },
+    { "label": "About", "url": "/about" },
+    { "label": "Swag", "url": "/storefront" }
+  ]
+}
